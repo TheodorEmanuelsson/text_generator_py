@@ -1,4 +1,4 @@
-# text_generator_py
+# text_generator
 
 A naive application that stores data on word frequencies, letter_frequencies and successor words.
 
